@@ -1,0 +1,11 @@
+[
+{
+  "modid": "challenges",
+  "name": "Challenges",
+  "description": "Gives you challenges built-in and ones that you can add while playing Hypixel BedWars or SkyWars.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "authorList": ["LifeKnight"]
+}
+]

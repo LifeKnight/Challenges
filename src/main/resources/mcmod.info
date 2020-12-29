@@ -5,7 +5,7 @@
   "description": "Gives you challenges built-in and ones that you can add while playing Hypixel BedWars or SkyWars.",
   "version": "${version}",
   "mcversion": "${mcversion}",
-  "url": "",
+  "url": "https://docs.google.com/document/d/1T4iLr_7qfLmxFDXF2zL1WA4kPbHaBeodS80nL0v_hbQ/edit?usp=sharing",
   "authorList": ["LifeKnight"]
 }
 ]

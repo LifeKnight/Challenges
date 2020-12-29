@@ -171,7 +171,7 @@ public class Core {
     }
 
     @SubscribeEvent
-    public void onWorldUnload(WorldEvent .Unload event) {
+    public void onWorldUnload(WorldEvent.Unload event) {
         stopChallenge();
     }
 

@@ -53,8 +53,8 @@ public class Core {
     public static final SmartBoolean hudTextShadow = new SmartBoolean("HUD Text Shadow", "HUD", false, "Shadow behind text shown in the HUD.");
     public static final SmartBoolean hudTextBox = new SmartBoolean("HUD Text Box", "HUD", true, "Box surrounding text shown in the HUD.");
     public static final SmartNumber.SmartFloat hudTextBoxOpacity = new SmartNumber.SmartFloat("HUD Text Box Opacity", "HUD", 0.7F, 0F, 1F, "Opacity of the HUD Text Box.");
-    public static final SmartNumber.SmartInteger timerTime = new SmartNumber.SmartInteger("Timer Time", "Timer", 15, 5, 120, "Interval between challenges.");
     public static final SmartNumber.SmartFloat chromaSpeed = new SmartNumber.SmartFloat("Chroma Speed", "HUD", 0.5F, 0.125F, 1F, "Speed of the chroma speed of text in the HUD.");
+    public static final SmartNumber.SmartInteger timerTime = new SmartNumber.SmartInteger("Timer Time", "Timer", 15, 5, 120, "Interval between challenges.");
     public static final SmartCycle challengeTypes = new SmartCycle("Challenge Types", "Challenges", Arrays.asList("Built-in", "Custom", "All"), "Determines challenges; built-in, custom, both.");
     public static final SmartList.SmartStringList customChallenges = new SmartList.SmartStringList("Custom Challenges", "Challenges", "Challenges that you add!");
     public static com.lifeknight.challenges.utilities.Timer problemTimer;
